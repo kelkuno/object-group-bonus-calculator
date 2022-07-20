@@ -99,7 +99,7 @@ function checkDigits(array){
     status = false;
   }
   return status;
-};
+}; //testing comment
 
 function bigSalary(array){
   let anyOldSalary = parseInt(array[1].annualSalary);
